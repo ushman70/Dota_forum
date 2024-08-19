@@ -1,0 +1,4 @@
+
+RewriteEngine On
+RewriteBase /
+RewriteRule ^matchup?$ dota%20forum/matchup.php

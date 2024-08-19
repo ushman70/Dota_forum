@@ -1,0 +1,1 @@
+RewriteRule ^topic/([-\w]+)/$ comments.php?url=$1 [NC,L]
